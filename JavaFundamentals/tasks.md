@@ -2,7 +2,7 @@
 
 ## Комплексные числа
 
-Сделать имплементацию текущего [интерфейса](https://github.com/enFaust/java-study/blob/task0/JavaFundamentals/src/main/java/org/course/fundamential/complex/ComplexNumber.java), 
+Сделать имплементацию текущего [интерфейса](https://github.com/enFaust/java-study/blob/main/JavaFundamentals/src/main/java/org/course/fundamential/complex/ComplexNumber.java), 
 которая будет описывать комплексные числа с двумя частями - действительной и мнимой.
 
 Реализовать тесты, полностью покрывающие все методы
