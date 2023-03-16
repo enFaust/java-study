@@ -2,7 +2,7 @@
 
 ## Java Fundamentals
     
-[Questions for Interview](./Java Fundamentals/questions_for_interview.md)
+[Questions for Interview](JavaFundamentals/questions_for_interview.md)
 
 ## Git Courses
 
