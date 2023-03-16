@@ -1,4 +1,4 @@
-package org.course.fundamential.arithmetic;
+package org.course.fundamential.complex;
 
 
 import org.junit.jupiter.api.Test;
