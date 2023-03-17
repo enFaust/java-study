@@ -6,7 +6,7 @@
 
 - [Tasks](https://github.com/enFaust/java-study/blob/main/JavaFundamentals/tasks.md)
 
-- [Самоучитель по Java](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) C 1ого по 41 урок
+- [Самоучитель по Java](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) C 1ого по 43 урок
  
 ## Git Courses
 
