@@ -6,8 +6,8 @@
 
 - [Tasks](https://github.com/enFaust/java-study/blob/main/JavaFundamentals/tasks.md)
 
-- [Самоучитель по Java](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) C 1ого по 43 урок
- 
+- [Самоучитель по Java](https://github.com/enFaust/java-study/wiki)
+
 ## Git Courses
 
 - [Песочница](https://learngitbranching.js.org/?locale=ru_RU), чтобы можно было практиковться без установки git
