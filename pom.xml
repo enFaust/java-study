@@ -4,15 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>org.course.fundamential.sort</groupId>
-        <artifactId>JavaStudy</artifactId>
-        <version>1.0-SNAPSHOT</version>
-    </parent>
-
     <groupId>org.course.fundamential.sort</groupId>
-    <artifactId>JavaFundamentals</artifactId>
+    <artifactId>JavaStudy</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>javaCollections</module>
+    </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
