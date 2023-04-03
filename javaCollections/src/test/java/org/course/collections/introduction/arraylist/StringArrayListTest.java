@@ -1,4 +1,4 @@
-package org.course.collections.introduction.a_arraylist;
+package org.course.collections.introduction.arraylist;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ListIterator;
 
-import static org.course.collections.introduction.a_arraylist.StringArrayList.*;
+import static org.course.collections.introduction.arraylist.StringArrayList.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

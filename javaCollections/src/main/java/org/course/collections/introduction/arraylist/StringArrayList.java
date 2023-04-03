@@ -1,4 +1,4 @@
-package org.course.collections.introduction.a_arraylist;
+package org.course.collections.introduction.arraylist;
 
 import java.util.List;
 
